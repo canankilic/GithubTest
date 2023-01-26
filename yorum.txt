@@ -1,1 +1,4 @@
 Bu dosya bankadan çekebileceğiniz kredi miktarını anlatır.
+
+
+Bu yorum deneme içindir.
