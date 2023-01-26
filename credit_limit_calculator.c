@@ -1,4 +1,4 @@
-
+//deneme yorum satırı
 
 #include <stdio.h>
 #include <stdbool.h>
